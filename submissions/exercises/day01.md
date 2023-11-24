@@ -12,7 +12,7 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 #### <h1 align = center> UI and UX analyses for Day 1 </h1>
 
 <br/><br/>
-&nbsp;&nbsp;&nbsp;&nbsp;**User-Experience Analysis:**<br/>
+&nbsp;&nbsp;User-Experience Analysis:**<br/>
 
 <h3>1. Which website is easier to find the product you are looking for?<br/></h3>
 Answer: 
@@ -26,7 +26,7 @@ In Lazada the one thing that I think the user will get confuse is the categories
 Answer: 
 For me the one that is easier to scan and to understand is the Lazada app since it's features is just minimal where the main categories is arrange to it's left side and when you hover the mouse to those categories a sub-category will show up that helps you to find what you are looking much easier.
 
-<br/> &nbsp;&nbsp;&nbsp;&nbsp;**User-Interface Analysis:**
+<br/> &nbsp;&nbsp;**User-Interface Analysis:**
 
 <h3>1. Is the websites’ layout and design visually pleasing and consistent with their brand?<br/> </h3>
 Answer:
