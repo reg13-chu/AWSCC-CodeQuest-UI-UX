@@ -11,8 +11,7 @@
 </p>
 
 <p align=center>
-<a href="https://www.figma.com/file/VXZMGfq75JZZoE0UYYXkwg/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202-37&mode=design&t=Hkahu1WuJeamQjJH-0"><button style="width:190px; height: 40px; font-weight:bold; align=center; font-size: 16px; color: #D6B2FF; background-color: #270E44; border: 2px solid #684196; border-radius: 5px;">DAY 3 OUTPUT
-</button>
+<a href="https://www.figma.com/file/VXZMGfq75JZZoE0UYYXkwg/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202-37&mode=design&t=Hkahu1WuJeamQjJH-0">DAY 3 OUTPUT
 </a>
 </p>
 
@@ -26,7 +25,7 @@ Game: Can't Unsee
 </h3>
 
 <p align=center>
-<img src="../../assets/photos/day03-game1.png" style="width: 80%; height: 20rem">
+<img src="../../assets/photos/day03-game1.png">
 </p>
 
 
