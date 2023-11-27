@@ -4,7 +4,7 @@
 <img width="90px" src="../../assets/alf/alf-ufo.png">
 </p>
 
-<h1 align="center"> C.R.A.P Activity for Day 3 </h1>
+<h1 align="center"> 💜 C.R.A.P Activity for Day 3 💜</h1>
 
 <p align=center>
 <img wdith="100%" height="120px" src="../../assets/photos/day03-photo.png">
@@ -25,8 +25,9 @@ Hi Everyone! For the third day of this CodeQuest this is the one that I made for
 Game: Can't Unsee
 </h3>
 
-<img src="../../assets/photos/day03-game1.png">
-
+<p align=center>
+<img width=50% src="../../assets/photos/day03-game1.png">
+</p>
 
 
 
