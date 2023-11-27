@@ -1,7 +1,47 @@
-## Hello there, my fellow Alfbuddy! 💖
+## <h6 align="center">Hello there, my fellow Alfbuddy! 💖</h6>
 
-<img align="right" width="250px" src="../../assets/alf/alf-ufo.png">
+<p align="center">
+<img width="90px" src="../../assets/alf/alf-ufo.png">
+</p>
 
+<h1 align="center"> C.R.A.P Activity for Day 3 </h1>
+
+<p align=center>
+<img wdith="100%" height="120px" src="../../assets/photos/day03-photo.png">
+</p>
+
+<p align=center>
+<a href="https://www.figma.com/file/VXZMGfq75JZZoE0UYYXkwg/Week-1-%5BDay-3%5D-%3A-Activity-(Community)?type=design&node-id=202-37&mode=design&t=Hkahu1WuJeamQjJH-0"><button style="width:190px; height: 40px; font-weight:bold; align=center; font-size: 16px; color: #D6B2FF; background-color: #270E44; border: 2px solid #684196; border-radius: 5px;">DAY 3 OUTPUT
+</button>
+</a>
+</p>
+
+<p align=justify>
+Hi Everyone! For the third day of this CodeQuest this is the one that I made for this day. Above is the link to a figma file, so just click it if you want to see what I did today. For this experience I learned a new knowledge that is beneficial to me, since I am not into design back then and I am just starting to figure out more about design and user interface, and this tutorial is helpful for me to be able to have a good design in the future.
+</p>
+
+##
+<h3 align=center>
+Game: Can't Unsee
+</h3>
+
+<img src="../../assets/photos/day03-game1.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 You've made it—great job! Now, here's the scoop: this markdown file is your **canvas**. Customize it; let your creativity flow!
 
 Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include:
@@ -9,5 +49,5 @@ Remember, you're free to add your personal touch, but keep the sacred requiremen
 - An **optional** screenshot of playing the game **"Can't Unsee"** and your feedback
 
 Ready to include your output for **Day 3**? Let the customization begin! 🚀✨
-
+-->
 <!-- You may now delete and modify the content of this file -->
