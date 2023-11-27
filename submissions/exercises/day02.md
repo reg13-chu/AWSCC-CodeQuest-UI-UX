@@ -16,7 +16,7 @@
 
 <p align=justify> 
 This is my sample layout for this activity, down below is a photo of what part of this sample layout is the one that I work in this activity. My experience for this activity is a fun since I am able to start my new learning in Figma, I am already familiar with the features of Figma so it is easy for me to this activity and the color pallete that is being used is superb since it's my favorite color. One thing that for me to improve, is enhancing my skills when it comes to alignment and spacing, since it's one of my weakness when it comes to designing.
-
+</p>
 <img src="../../assets/photos/day02-sample-layout2.png">
 
 
