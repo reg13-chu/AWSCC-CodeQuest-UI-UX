@@ -9,10 +9,10 @@
 Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include: -->
 
 
-#### <h1 align = center> UI and UX analyses for Day 1 </h1>
+#### <h1 align = center> 💜 UI and UX analyses for Day 1 💜</h1>
 
 <br/><br/>
-&nbsp;&nbsp;User-Experience Analysis:**<br/>
+&nbsp;&nbsp;**User-Experience Analysis:**<br/>
 
 <h3>1. Which website is easier to find the product you are looking for?<br/></h3>
 Answer: 
@@ -44,8 +44,9 @@ As a person that is not a fan of bright colors or I just want minimal color to u
 
 <h2 align=center> It's Centered That </h2>
 
-<img src="../../assets/photos/day01-game.png">
-
+<p align=center>
+<img width=500px src="../../assets/photos/day01-game.png">
+</p>
 <!--#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
 
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨ -->
