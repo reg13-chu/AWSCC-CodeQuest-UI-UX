@@ -25,7 +25,9 @@ Hi Everyone! For the third day of this CodeQuest this is the one that I made for
 Game: Can't Unsee
 </h3>
 
-<img src="../../assets/photos/day03-game1.png">
+<p align=center>
+<img src="../../assets/photos/day03-game1.png" style="width: 80%; height: 20rem">
+</p>
 
 
 
