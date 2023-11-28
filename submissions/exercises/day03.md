@@ -25,14 +25,8 @@ Game: Can't Unsee
 </h3>
 
 <p align=center>
-<<<<<<< HEAD
-<img src="../../assets/photos/day03-game1.png">
-</p>
-
-=======
 <img width=50% src="../../assets/photos/day03-game1.png">
 </p>
->>>>>>> 5eb1d493b235688fd2aae3054b3ab04dfb2bf643
 
 
 
