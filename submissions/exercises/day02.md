@@ -4,7 +4,7 @@
 <img width="90px" src="../../assets/alf/alf-ufo.png">
 </p>
 
-#### <h1 align = center>💜 Sample Layout for Day 2 💜</h1>
+#### <h1 align = center>💜 Day 2: Figma Basics 💜</h1>
 
 <img src="../../assets/photos/day02-sample-layout.png">
 
