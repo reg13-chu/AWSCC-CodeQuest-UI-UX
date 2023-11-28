@@ -9,7 +9,7 @@
 Remember, you're free to add your personal touch, but keep the sacred requirements intact; they are the guardians of order here. This markdown file should or may include: -->
 
 
-#### <h1 align = center> 💜 UI and UX analyses for Day 1 💜</h1>
+#### <h1 align = center> 💜 Introduction to UI/UX Design 💜</h1>
 
 <br/><br/>
 &nbsp;&nbsp;**User-Experience Analysis:**<br/>
