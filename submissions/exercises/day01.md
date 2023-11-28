@@ -44,16 +44,9 @@ As a person that is not a fan of bright colors or I just want minimal color to u
 
 <h2 align=center> It's Centered That </h2>
 
-<<<<<<< HEAD
-<img src="../../assets/photos/day01-game.png">
-
-
-
-=======
 <p align=center>
 <img width=500px src="../../assets/photos/day01-game.png">
 </p>
->>>>>>> 5eb1d493b235688fd2aae3054b3ab04dfb2bf643
 <!--#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
 
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨ -->
