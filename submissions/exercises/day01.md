@@ -46,6 +46,8 @@ As a person that is not a fan of bright colors or I just want minimal color to u
 
 <img src="../../assets/photos/day01-game.png">
 
+
+
 <!--#### 2. An **optional** screenshot of playing the game **"It's Centred That"** and your feedback
 
 <br>Ready to include your output for **Day 1**? Let the customization begin! 🚀✨ -->
