@@ -4,7 +4,7 @@
 <img width="90px" src="../../assets/alf/alf-ufo.png">
 </p>
 
-<h1 align="center"> 💜 C.R.A.P Activity for Day 3 💜</h1>
+<h1 align="center"> 💜 Day 3: Design Principles 💜</h1>
 
 <p align=center>
 <img wdith="100%" height="120px" src="../../assets/photos/day03-photo.png">
